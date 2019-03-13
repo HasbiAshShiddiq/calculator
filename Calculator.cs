@@ -49,7 +49,7 @@ namespace ConsoleApp3
                     break;
             }
 
-            Console.WriteLine("\nTekan Sembarang Key Untuk Keluar   ");
+            Console.WriteLine("\nTekan Sembarang Key Untuk Keluar");
 
             Console.ReadKey();
         }
